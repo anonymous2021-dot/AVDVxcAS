@@ -1,0 +1,14 @@
+body{
+    background-color: #7094f6;
+    font-family: serif;
+    color: white;
+}
+
+.name_of_objects{
+    background-color: #a3a074;
+    color: black;
+}
+
+#capturebtn, #identifybtn{
+    color: black;
+}
